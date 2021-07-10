@@ -1,6 +1,8 @@
 ---
-permalink: /research/
 title: "Research"
+layout: single
+permalink: /research/
+author_profile: true
 ---
 
 ### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
