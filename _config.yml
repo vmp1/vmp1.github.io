@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Valentina Martinez-Pabon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pic.jpg"
   bio              : "Ph.D. Candidate in Economics at Tulane University"
   location         : "New Orleans, LA"
   email            : "vmartinezpabon@tulane.edu"
