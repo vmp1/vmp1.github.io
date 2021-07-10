@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default" "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my website!"
+title                    : "Valentina Martinez-Pabon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Your Name"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Valentina Martinez-Pabon"
+  name             : # "Valentina Martinez-Pabon"
   avatar           : "/assets/images/pic.jpg"
   bio              : "Ph.D. Candidate in Economics at Tulane University"
   location         : "New Orleans, LA"
