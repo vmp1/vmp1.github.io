@@ -11,7 +11,7 @@ author_profile: true
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Revise and Resubmit in Economia. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
 
-*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Submitted to World Development Journal, Special Issue. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq86.pdf).
+*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Submitted to World Development Journal, Special Issue. [Working paper](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
 ---
 
