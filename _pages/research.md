@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
+### <span style="color:#000000">Journal Publications</span> 
 
 *The Impact of COVID-19 Economic Shock on Inequality and Poverty in Mexico* (with Nora Lustig). Forthcoming in Estudios Económicos, Special Issue. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq98.pdf).
 
+### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
+
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Revise and Resubmit in Economia. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
 
-*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Submitted to World Development Journal, Special Issue. [Working paper](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
+*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Submitted to World Development, Special Issue. [Working paper](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
 ---
 
