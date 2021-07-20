@@ -29,7 +29,7 @@ author_profile: true
 
 *The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger), CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
 
-*El papel de la política fiscal en la reducción de la desigualdad y la pobreza en Colombia: un análisis de incidencia del gasto social y los impuestos* (with Marcela Meléndez and Nicolás Peña-Tenjo), CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
+*The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes* (with Marcela Meléndez and Nicolás Peña-Tenjo), CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [Working paper in Spanish](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
 
 ---
 
