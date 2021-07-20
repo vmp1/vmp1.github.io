@@ -9,6 +9,8 @@ author_profile: true
 
 *The Impact of COVID-19 Economic Shock on Inequality and Poverty in Mexico* (with Nora Lustig). Forthcoming in Estudios Económicos, Special Issue. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq98.pdf).
 
+---
+
 ### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Revise and Resubmit in Economia. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
