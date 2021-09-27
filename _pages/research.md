@@ -34,7 +34,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 *The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo), CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
 
-*The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger), CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [Link](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
+*The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger), CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
 
 ---
 
