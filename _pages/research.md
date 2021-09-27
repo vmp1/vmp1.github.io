@@ -7,10 +7,10 @@ author_profile: true
 
 ### <span style="color:#000000">Journal Publications</span> 
 
+*Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
+
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
 Económicos 36 (1), 7-25, January-June 2021. [pdf](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
-
-*Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
 
 ---
 
@@ -30,11 +30,11 @@ Económicos 36 (1), 7-25, January-June 2021. [pdf](https://estudioseconomicos.co
 
 ### <span style="color:#000000">Working Papers</span> 
 
-*The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger), CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
+*Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi), CEQ Working Paper 111, CEQ Institute, Tulane University, 2021. [Working paper](https://repec.tulane.edu/RePEc/ceq/ceq111.pdf).
 
 *The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes* (with Marcela Meléndez and Nicolás Peña-Tenjo), CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [Working paper (Spanish)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
 
-*Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi), CEQ Working Paper 111, CEQ Institute, Tulane University, 2021. [Working paper](https://repec.tulane.edu/RePEc/ceq/ceq111.pdf).
+*The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger), CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [Working paper](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
 
 ---
 
