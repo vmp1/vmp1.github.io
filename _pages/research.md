@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### <span style="color:#000000">Work in Progress</span> 
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper).
+*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). <a href="/assets/docs/VMP JMP_Nov2021.pdf">Link</a>
 
 No Child Left Behind (NCLB) and the state accountability systems implemented during the 1990s have included an increasingly intense series of interventions for low-performing schools. If the initial steps were insufficient, schools were supposed to be closed, taken over by other education organizations, or reconstituted. Using an event study analysis, I find that state accountability and NCLB itself did not affect the frequency of closure and takeover of publicly funded schools in the country. Moreover, I find that NCLB generated an anticipatory but transitory increase in closures and led to a rise in closures among schools with small enrollments. Overall, my findings suggest that the infrequent and weak implementation of the most extreme sanctions on low-performing schools is partly behind the limited effects of accountability policies on student performance.
 
