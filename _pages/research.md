@@ -25,7 +25,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 *Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Working paper version)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review.
+*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Working paper version)](https://reachcentered.org/publications/extreme-measures-a-national-descriptive-analysis-of-closure-and-restructuring-of-traditional-public-charter-and-private-schools).
 
 ---
 
