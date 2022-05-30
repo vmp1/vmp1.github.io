@@ -42,7 +42,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Policy Briefs</span> 
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
+*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). National Center for Research on Education Access and Choice Policy Brief (May 2022). [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
 
 ---
 
