@@ -5,13 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-### <span style="color:#000000">Work in Progress</span> 
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper).
-
-No Child Left Behind (NCLB) and the state accountability systems implemented during the 1990s have included an increasingly intense series of interventions for low-performing schools. If the initial steps were insufficient, schools were supposed to be closed, taken over by other education organizations, or reconstituted. Using event study and difference-in-differences analyses, I find that state accountability and NCLB itself did not affect the frequency of closure and takeover of publicly funded schools in the country. Moreover, I find that NCLB generated an anticipatory but transitory increase in closures and led to a rise in closures among schools with small enrollments. Overall, my findings suggest that the infrequent and weak implementation of the most extreme sanctions on low-performing schools is partly behind the limited effects of accountability policies on student performance.
-
----
-
 ### <span style="color:#000000">Journal Publications</span> 
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Working paper version)](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
@@ -25,7 +18,9 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 *Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Working paper version)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Working paper version)](https://reachcentered.org/publications/extreme-measures-a-national-descriptive-analysis-of-closure-and-restructuring-of-traditional-public-charter-and-private-schools).
+*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Working paper version)](https://reachcentered.org/uploads/technicalreport/2022-05-22-REACH-National-Closure-Restructuring-Tech-Report.pdf).
+
+*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). Under review. 
 
 ---
 
@@ -42,6 +37,12 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 *The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo), CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
 
 *The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger), CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
+
+---
+
+### <span style="color:#000000">Policy Briefs</span> 
+
+*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
 
 ---
 
