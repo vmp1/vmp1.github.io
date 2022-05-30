@@ -7,10 +7,10 @@ author_profile: true
 
 ### <span style="color:#000000">Journal Publications</span> 
 
-*Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Working paper version)](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
-
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
 Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
+
+*Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Working paper version)](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
 
 ---
 
@@ -42,7 +42,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Policy Briefs</span> 
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
+*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
 
 ---
 
