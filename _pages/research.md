@@ -14,9 +14,9 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Working paper version)](https://reachcentered.org/uploads/technicalreport/2022-05-22-REACH-National-Closure-Restructuring-Tech-Report.pdf).
-
 *Was Implementation Left Behind? A National Analysis of State and Federal School Accountability*. Under review. 
+
+*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Working paper version)](https://reachcentered.org/uploads/technicalreport/2022-05-22-REACH-National-Closure-Restructuring-Tech-Report.pdf).
 
 *Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Working paper version)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
