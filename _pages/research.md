@@ -14,9 +14,9 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
 
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability*. Under review. 
+*Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Working paper version)](https://reachcentered.org/uploads/technicalreport/2022-05-22-REACH-National-Closure-Restructuring-Tech-Report.pdf).
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Under review. [(Working paper version)](https://reachcentered.org/uploads/technicalreport/2022-05-22-REACH-National-Closure-Restructuring-Tech-Report.pdf).
+*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability*. Under review. 
 
 *Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Working paper version)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
@@ -44,7 +44,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Policy Briefs</span> 
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Takeover of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). National Center for Research on Education Access and Choice Policy Brief (May 2022). [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
+*Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). National Center for Research on Education Access and Choice Policy Brief (May 2022). [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
 
 ---
 
