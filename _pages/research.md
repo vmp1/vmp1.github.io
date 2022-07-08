@@ -46,6 +46,8 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 *Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). National Center for Research on Education Access and Choice Policy Brief (May 2022). [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
 
+*Colombia en PISA 2015: Avances y tareas pendientes* (with Diana Hincapie). Nota PISA, Inter-American Development Bank (August 2017). [(Link)](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes). 
+
 ---
 
 ### <span style="color:#000000">Blog Posts</span> 
@@ -54,9 +56,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 [COVID-19’s New Poor in Latin America.](https://www.cgdev.org/blog/covid-19s-new-poor-latin-america) (with Nora Lustig , Federico Sanz and Stephen D. Younger). Center for Global Development, October 21st 2020.
 
-[Colombia en PISA 2015: Avances y tareas pendientes.](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes) (with Diana Hincapie). Nota PISA, IADB, August 2017.
-
-[5 key achievements in education for Latin America and the Caribbean.](https://blogs.iadb.org/educacion/en/cima-5-key-achievements-in-education-for-latin-america-and-the-caribbean/) (with Elena Arias Ortiz). Enfoque Educacion, IADB, March 16th 2017.
+[5 key achievements in education for Latin America and the Caribbean.](https://blogs.iadb.org/educacion/en/cima-5-key-achievements-in-education-for-latin-america-and-the-caribbean/) (with Elena Arias Ortiz). Enfoque Educacion, Inter-American Development Bank, March 16th 2017.
 
 ---
 
