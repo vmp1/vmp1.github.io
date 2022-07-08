@@ -62,7 +62,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Press Coverage</span> 
 
-[Race Is a Strong Predictor of Which Schools Will Close Permanently, Study Shows.](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05) Education Week, may 26th 2022.
+[Race Is a Strong Predictor of Which Schools Will Close Permanently, Study Shows.](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05) Education Week, May 26th 2022.
 
 [Latin America’s new poor.](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor) The Economist, October 10th 2020.
 
