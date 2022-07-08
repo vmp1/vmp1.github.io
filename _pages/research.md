@@ -50,13 +50,13 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Blog Posts</span> 
 
-[El COVID-19 en México: impacto en pobreza y desigualdad.](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf) Foco Economico, November 30th 2020.
+[El COVID-19 en México: impacto en pobreza y desigualdad. (with Nora Lustig)]([http://repec.tulane.edu/RePEc/ceq/ceq107.pdf](https://dev.focoeconomico.org/2020/11/30/el-covid-19-en-mexico-impacto-en-pobreza-y-desigualdad/)) Foco Economico, November 30th 2020.
 
-[COVID-19’s New Poor in Latin America.](https://www.cgdev.org/blog/covid-19s-new-poor-latin-america) Center for Global Development, October 21st 2020.
+[COVID-19’s New Poor in Latin America. (with Nora Lustig , Federico Sanz and Stephen D. Younger)](https://www.cgdev.org/blog/covid-19s-new-poor-latin-america) Center for Global Development, October 21st 2020.
 
-[Colombia en PISA 2015: Avances y tareas pendientes.](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes) Nota PISA, IADB, August 2017.
+[Colombia en PISA 2015: Avances y tareas pendientes. (with Diana Hincapie)](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes) Nota PISA, IADB, August 2017.
 
-[5 key achievements in education for Latin America and the Caribbean.](https://blogs.iadb.org/educacion/en/cima-5-key-achievements-in-education-for-latin-america-and-the-caribbean/) Enfoque Educacion, IADB, March 16th 2017.
+[5 key achievements in education for Latin America and the Caribbean. (with Elena Arias Ortiz)](https://blogs.iadb.org/educacion/en/cima-5-key-achievements-in-education-for-latin-america-and-the-caribbean/) Enfoque Educacion, IADB, March 16th 2017.
 
 ---
 
