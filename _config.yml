@@ -104,8 +104,8 @@ author:
   name             : # "Valentina Martinez-Pabon"
   avatar           : "/assets/images/pic2.jpg"
   bio              : # "Ph.D. Candidate in Economics at Tulane University"
-  location         : "New Orleans, LA"
-  email            : "vmartinezpabon@tulane.edu"
+  location         : "New Haven, CT"
+  email            : "valentina.martinezpabon@yale.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
