@@ -103,7 +103,7 @@ analytics:
 author:
   name             : # "Valentina Martinez-Pabon"
   avatar           : "/assets/images/pic2.jpg"
-  bio              : "Ph.D. Candidate in Economics at Tulane University"
+  bio              : # "Ph.D. Candidate in Economics at Tulane University"
   location         : "New Orleans, LA"
   email            : "vmartinezpabon@tulane.edu"
   links:
