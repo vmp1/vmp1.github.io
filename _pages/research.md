@@ -7,12 +7,12 @@ author_profile: true
 
 ### <span style="color:#000000">Journal Publications</span> 
 
-*The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
-Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
-
 *Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
 *Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). Forthcoming in LSE Public Policy Review.
+
+*The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
+Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
 
 ---
 
