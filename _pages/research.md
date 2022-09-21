@@ -11,6 +11,8 @@ author_profile: true
 
 *Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). Forthcoming in LSE Public Policy Review.
 
+*Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Working Paper version)](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
+
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
 Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
 
@@ -35,8 +37,6 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 *Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). CGD Working Paper 588, Center for Global Develpment, 2021. [(Link)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
 *The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
-
-*Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). CEQI Working Paper 96, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
 
 *The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger). CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
 
