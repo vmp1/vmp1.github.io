@@ -9,8 +9,6 @@ author_profile: true
 
 *ECON 1010-01: Intro to Microeconomics*. <a href="/assets/docs/ECON1010.pdf">(Syllabus)</a>
 
-[(Syllabus)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
-
 ---
 
 ### <span style="color:#000000">Universidad de Los Andes</span>  
