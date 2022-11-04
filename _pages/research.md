@@ -11,6 +11,8 @@ author_profile: true
 
 *Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). Forthcoming in LSE Public Policy Review.
 
+*The Impact of COVID-19 on Living Standards: Addressing the Challenges of Nowcasting Unprecedented Macroeconomic Shocks with Scant Data and Uncharted Economic Behavior* (with N. Lustig, F. Sanz, and S. D. Younger). Forthcoming in the International Journal of Microsimulation.
+
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Working Paper version)](http://repec.tulane.edu/RePEc/ceq/ceq96.pdf).
 
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
@@ -20,7 +22,9 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
 
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability*. Under review. 
+*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). Under review. 
+
+*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Link)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
 ---
 
@@ -33,8 +37,6 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 ### <span style="color:#000000">Working Papers</span> 
 
 *Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi). CEQ Working Paper 111, CEQ Institute, Tulane University, 2021. [(Link)](https://repec.tulane.edu/RePEc/ceq/ceq111.pdf).
-
-*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). CGD Working Paper 588, Center for Global Develpment, 2021. [(Link)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
 *The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
 
