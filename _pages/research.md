@@ -64,7 +64,7 @@ Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos
 
 ### <span style="color:#000000">Media Coverage</span> 
 
-[Education Week](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05), [The Economist](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor), [The Progressive Magazine](https://progressive.org/magazine/the-great-charter-school-scam-burris/) 
+[Education Week](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05), [The Economist](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor), [The Education Gadfly Show](https://fordhaminstitute.org/national/resources/education-gadfly-show-839-do-profit-charter-schools-deserve-their-bad-reputation), [The Progressive Magazine](https://progressive.org/magazine/the-great-charter-school-scam-burris/) 
 
 
 
