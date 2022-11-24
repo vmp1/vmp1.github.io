@@ -9,11 +9,11 @@ author_profile: true
 
 *Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
-*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). Forthcoming in LSE Public Policy Review.
-
 *The Impact of COVID-19 on Living Standards: Addressing the Challenges of Nowcasting Unprecedented Macroeconomic Shocks with Scant Data and Uncharted Economic Behavior* (with N. Lustig, F. Sanz, and S. D. Younger). Forthcoming in the International Journal of Microsimulation.
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
+
+*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4), p.4, 2022. [(Link)](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
 
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
 Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
