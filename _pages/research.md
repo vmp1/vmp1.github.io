@@ -13,7 +13,7 @@ author_profile: true
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
 
-*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4), p.4, 2022. [https://doi.org/10.31389/lseppr.67](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
+*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4):4, pp. 1–10, 2022. [https://doi.org/10.31389/lseppr.67](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
 
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
 Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v36i1.416](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
