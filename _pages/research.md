@@ -13,16 +13,16 @@ author_profile: true
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
 
-*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4), p.4, 2022. [(Link)](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
+*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4), p.4, 2022. [https://doi.org/10.31389/lseppr.67](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
 
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
-Económicos 36 (1), 7-25, January-June 2021. [(Link)](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
+Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v36i1.416](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
 
 ---
 
 ### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
 
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). Under review. 
+*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). Under review.
 
 *Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Link)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
