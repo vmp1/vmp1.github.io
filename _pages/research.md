@@ -52,7 +52,9 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ---
 
-### <span style="color:#000000">Blog Posts</span> 
+### <span style="color:#000000">Blog Posts and Opinions</span> 
+
+[School Closures Are Coming. What Not to Do.](https://www.edweek.org/leadership/opinion-school-closures-are-coming-what-not-to-do/2022/11) (with Douglas N. Harris). Education Week, November 28th 2022.
 
 [El COVID-19 en México: impacto en pobreza y desigualdad.](https://dev.focoeconomico.org/2020/11/30/el-covid-19-en-mexico-impacto-en-pobreza-y-desigualdad/) (with Nora Lustig). Foco Economico, November 30th 2020.
 
