@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### <span style="color:#000000">Journal Publications</span> 
+### <span style="color:#000000">Published and Accepted Papers</span> 
 
 *Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
@@ -13,14 +13,14 @@ author_profile: true
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
 
-*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4):4, pp. 1–10, 2022. [https://doi.org/10.31389/lseppr.67](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
+*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4):4, pp. 1–10, 2022. DOI: [https://doi.org/10.31389/lseppr.67](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
 
 *The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
 Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v36i1.416](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
 
 ---
 
-### <span style="color:#000000">Articles Submitted to Academic Journals</span>  
+### <span style="color:#000000">Manuscripts Under Review</span>  
 
 *Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). Under review.
 
@@ -28,7 +28,7 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ---
 
-### <span style="color:#000000">Book Chapters</span>  
+### <span style="color:#000000">Book Chapter</span>  
 
 *Leaving No One Behind: Can Tax-funded Transfer Programs Provide Income Floors in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema), in Leave No One Behind, Homi Kharas and John McArthur (editors), Brookings Institution Press; Washington, DC, 2019. [(Link)](https://www.brookings.edu/wp-content/uploads/2019/09/LNOB_Chapter9.pdf).
 
@@ -36,11 +36,11 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ### <span style="color:#000000">Working Papers</span> 
 
-*Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi). CEQ Working Paper 111, CEQ Institute, Tulane University, 2021. [(Link)](https://repec.tulane.edu/RePEc/ceq/ceq111.pdf).
+*Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi). CEQ WP 111, CEQ Institute, Tulane University, 2021. [(Link)](https://repec.tulane.edu/RePEc/ceq/ceq111.pdf).
 
-*The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). CEQ Working Paper 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
+*The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). CEQ WP 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
 
-*The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger). CEQ Working Paper 92, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
+*The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger). CEQ WP 92, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
 
 ---
 
