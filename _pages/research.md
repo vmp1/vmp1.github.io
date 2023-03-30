@@ -74,11 +74,11 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ["Do “for-profit” charter schools deserve their bad reputation?."](https://fordhaminstitute.org/national/resources/education-gadfly-show-839-do-profit-charter-schools-deserve-their-bad-reputation) The Education Gadfly Show. September 28, 2022.
 
-["The Great Charter School Scam."](https://progressive.org/magazine/the-great-charter-school-scam-burris/). The Progressive Magazine. August 28, 2022.
+["The Great Charter School Scam."](https://progressive.org/magazine/the-great-charter-school-scam-burris/) The Progressive Magazine. August 28, 2022.
 
-["Race Is a Strong Predictor of Which Schools Will Close Permanently."](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05). Education Week. May 26, 2022.
+["Race Is a Strong Predictor of Which Schools Will Close Permanently."](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05) Education Week. May 26, 2022.
 
-["Latin America’s new poor."](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor). The Economist. October 8, 2020.
+["Latin America’s new poor."](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor) The Economist. October 8, 2020.
 
 
 
