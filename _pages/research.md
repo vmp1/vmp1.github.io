@@ -22,12 +22,6 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ---
 
-### <span style="color:#000000">Manuscripts Under Review</span>  
-
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). Under review.
-
----
-
 ### <span style="color:#000000">Book Chapter</span>  
 
 *Leaving No One Behind: Can Tax-funded Transfer Programs Provide Income Floors in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema), in Leave No One Behind, Homi Kharas and John McArthur (editors), Brookings Institution Press; Washington, DC, 2019. [(Link)](https://www.brookings.edu/wp-content/uploads/2019/09/LNOB_Chapter9.pdf).
@@ -41,6 +35,18 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 *The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). CEQ WP 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
 
 *The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger). CEQ WP 92, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
+
+---
+
+### <span style="color:#000000">Work in Progress</span>  
+
+*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper).
+
+*Measuring the Indirect Effects of School Closures on Their Neighbouring Communities*.
+
+*Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America* (with Nora Lustig and Carola Pessino).
+
+*Do We Know How Much Inequality and Fiscal Redistribution There Is?* (with Mauricio De Rosa and Nora Lustig).
 
 ---
 
