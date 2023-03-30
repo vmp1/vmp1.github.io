@@ -9,9 +9,11 @@ author_profile: true
 
 *Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
-*The Impact of COVID-19 on Living Standards: Addressing the Challenges of Nowcasting Unprecedented Macroeconomic Shocks with Scant Data and Uncharted Economic Behavior* (with N. Lustig, F. Sanz, and S. D. Younger). Forthcoming in the International Journal of Microsimulation.
+*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Link)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
 *Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
+
+*The Impact of COVID-19 on Living Standards: Addressing the Challenges of Nowcasting Unprecedented Macroeconomic Shocks with Scant Data and Uncharted Economic Behavior* (with Nora Lustig, Federico Sanz, and Stephen D. Younger). International Journal of Microsimulation, 16(1), 1-27, 2023. DOI: [https://doi.org/10.34196/IJM.00273](https://www.microsimulation.pub/articles/00273).
 
 *Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4):4, pp. 1–10, 2022. DOI: [https://doi.org/10.31389/lseppr.67](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
 
@@ -23,8 +25,6 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 ### <span style="color:#000000">Manuscripts Under Review</span>  
 
 *Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper). Under review.
-
-*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Under review. [(Link)](https://www.cgdev.org/sites/default/files/are-budget-neutral-income-floors-fiscally-viable-sub-saharan-africa.pdf).
 
 ---
 
