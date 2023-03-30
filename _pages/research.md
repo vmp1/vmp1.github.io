@@ -52,9 +52,9 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ### <span style="color:#000000">Policy Briefs</span> 
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). National Center for Research on Education Access and Choice Policy Brief (May 2022). [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
+*Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). National Center for Research on Education Access and Choice Policy Brief. May, 2022. [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
 
-*Colombia en PISA 2015: Avances y tareas pendientes* (with Diana Hincapie). Nota PISA, Inter-American Development Bank (August 2017). [(Link)](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes). 
+*Colombia en PISA 2015: Avances y tareas pendientes* (with Diana Hincapie). Nota PISA, Inter-American Development Bank. August, 2017. [(Link)](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes). 
 
 ---
 
