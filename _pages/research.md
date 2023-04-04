@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### <span style="color:#000000">Published and Accepted Papers</span> 
+### <span style="color:#000000">Articles Published in Academic Journals</span> 
 
 *Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
@@ -40,13 +40,13 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ### <span style="color:#000000">Work in Progress</span>  
 
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability* (Job Market Paper).
-
-*Measuring the Indirect Effects of School Closures on Their Neighbouring Communities*.
+*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability*.
 
 *Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America* (with Nora Lustig and Carola Pessino).
 
 *Do We Know How Much Inequality and Fiscal Redistribution There Is?* (with Mauricio De Rosa and Nora Lustig).
+
+*Measuring the Indirect Effects of School Closures on Their Neighbouring Communities*.
 
 ---
 
