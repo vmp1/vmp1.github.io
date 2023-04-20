@@ -60,6 +60,8 @@ Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v
 
 ### <span style="color:#000000">Blog Posts and Opinions</span> 
 
+["COVID-19 and Inequality in Latin America: Short-run Impacts, Lasting Scars"](https://blogs.lse.ac.uk/latamcaribbean/2023/04/20/covid-19-inequality-in-latin-america-short-run-impacts-lasting-scars/) (with Nora Lustig, Guido Neidhofer, and Mariano Tommasi). LSE Latin America and Caribbean Centre. April 20, 2023.
+
 ["School Closures Are Coming, What Not to Do"](https://www.edweek.org/leadership/opinion-school-closures-are-coming-what-not-to-do/2022/11) (with Douglas N. Harris). Education Week. November 28, 2022.
 
 ["El COVID-19 en México: Impacto en Pobreza y Desigualdad"](https://dev.focoeconomico.org/2020/11/30/el-covid-19-en-mexico-impacto-en-pobreza-y-desigualdad/) (with Nora Lustig). Foco Economico. November 30, 2020.
