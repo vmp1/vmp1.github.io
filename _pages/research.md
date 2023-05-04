@@ -7,54 +7,65 @@ author_profile: true
 
 ### <span style="color:#000000">Articles Published in Academic Journals</span> 
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
+*"Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools"* (with Douglas N. Harris). 
+Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
-*Short and Long-Run Distributional Impacts of COVID-19 in Latin America* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
+*"Short and Long-Run Distributional Impacts of COVID-19 in Latin America"* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). 
+Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
 
-*Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema). Journal of African Economies, 32(Supplement 2), ii202–ii227, 2023. DOI: [https://doi.org/10.1093/jae/ejac049](https://academic.oup.com/jae/article/32/Supplement_2/ii202/7118990).
+*"Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?"* (with Nora Lustig and Jon Jellema). 
+[Journal of African Economies](https://academic.oup.com/jae/article/32/Supplement_2/ii202/7118990), 32(Supplement 2), ii202–ii227, 2023.
 
-*The Impact of COVID-19 on Living Standards: Addressing the Challenges of Nowcasting Unprecedented Macroeconomic Shocks with Scant Data and Uncharted Economic Behavior* (with Nora Lustig, Federico Sanz, and Stephen D. Younger). International Journal of Microsimulation, 16(1), 1-27, 2023. DOI: [https://doi.org/10.34196/IJM.00273](https://www.microsimulation.pub/articles/00273).
+*"The Impact of COVID-19 on Living Standards: Addressing the Challenges of Nowcasting Unprecedented Macroeconomic Shocks with Scant Data and Uncharted Economic Behavior"* (with Nora Lustig, Federico Sanz, and Stephen D. Younger). 
+[International Journal of Microsimulation](https://www.microsimulation.pub/articles/00273), 16(1), 1-27, 2023.
 
-*Universal Basic Income, Taxes, and the Poor* (with Nora Lustig). LSE Public Policy Review, 2(4):4, pp. 1–10, 2022. DOI: [https://doi.org/10.31389/lseppr.67](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/).
+*"Universal Basic Income, Taxes, and the Poor"* (with Nora Lustig). 
+[LSE Public Policy Review](https://ppr.lse.ac.uk/articles/10.31389/lseppr.67/), 2(4):4, pp. 1–10, 2022.
 
-*The Impact of COVID-19 on Inequality and Poverty in Mexico* (with Nora Lustig). Estudios
-Económicos 36 (1), 7-25, January-June 2021. DOI: [https://doi.org/10.24201/ee.v36i1.416](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416).
+*"The Impact of COVID-19 on Inequality and Poverty in Mexico"* (with Nora Lustig). 
+[Estudios Económicos](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/416), 36 (1), 7-25, January-June 2021.
 
 ---
 
 ### <span style="color:#000000">Book Chapter</span>  
 
-*Leaving No One Behind: Can Tax-funded Transfer Programs Provide Income Floors in Sub-Saharan Africa?* (with Nora Lustig and Jon Jellema), in Leave No One Behind, Homi Kharas and John McArthur (editors), Brookings Institution Press; Washington, DC, 2019. [(Link)](https://www.brookings.edu/wp-content/uploads/2019/09/LNOB_Chapter9.pdf).
+*"Leaving No One Behind: Can Tax-funded Transfer Programs Provide Income Floors in Sub-Saharan Africa?"* (with Nora Lustig and Jon Jellema).
+In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Institution Press; Washington, DC, 2019. [(Link)](https://www.brookings.edu/wp-content/uploads/2019/09/LNOB_Chapter9.pdf).
 
 ---
 
 ### <span style="color:#000000">Working Papers</span> 
 
-*Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi). CEQ WP 111, CEQ Institute, Tulane University, 2021. [(Link)](https://repec.tulane.edu/RePEc/ceq/ceq111.pdf).
+*"Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina"* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi). 
+[CEQ Working Papaer](https://repec.tulane.edu/RePEc/ceq/ceq111.pdf) 111, CEQ Institute, Tulane University, 2021.
 
-*The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). CEQ WP 107, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf).
+*"The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes" (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). 
+[CEQ Working Papaer](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf) 107, CEQ Institute, Tulane University, 2021.
 
-*The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico* (with Nora Lustig, Federico Sanz, and Stephen Younger). CEQ WP 92, CEQ Institute, Tulane University, 2021. [(Link)](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf).
+*"The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico"* (with Nora Lustig, Federico Sanz, and Stephen Younger). 
+[CEQ Working Papaer](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf) 92, CEQ Institute, Tulane University, 2021.
 
 ---
 
 ### <span style="color:#000000">Work in Progress</span>  
 
-*Was Implementation Left Behind? A National Analysis of State and Federal School Accountability*.
+*"Was Implementation Left Behind? A National Analysis of State and Federal School Accountability"*.
 
-*Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America* (with Nora Lustig and Carola Pessino).
+*"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino).
 
-*Do We Know How Much Inequality and Fiscal Redistribution There Is?* (with Mauricio De Rosa and Nora Lustig).
+*"Do We Know How Much Inequality and Fiscal Redistribution There Is?"* (with Mauricio De Rosa and Nora Lustig).
 
-*Measuring the Indirect Effects of School Closures on Their Neighbouring Communities*.
+*"Measuring the Indirect Effects of School Closures on Their Neighbouring Communities"*.
 
 ---
 
 ### <span style="color:#000000">Policy Briefs</span> 
 
-*Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools* (with Douglas N. Harris). National Center for Research on Education Access and Choice Policy Brief. May, 2022. [(Link)](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf).
+*"Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools"* (with Douglas N. Harris).
+[Policy Brief](https://reachcentered.org/uploads/policybrief/REACH-National-Closure-Restructuring-2022-05-24.pdf), National Center for Research on Education Access and Choice. May, 2022.
 
-*Colombia en PISA 2015: Avances y tareas pendientes* (with Diana Hincapie). Nota PISA, Inter-American Development Bank. August, 2017. [(Link)](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes). 
+*"Colombia en PISA 2015: Avances y tareas pendientes"* (with Diana Hincapie). 
+[Nota PISA](https://publications.iadb.org/es/colombia-en-pisa-2015-avances-y-tareas-pendientes), Inter-American Development Bank. August, 2017. 
 
 ---
 
