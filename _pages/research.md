@@ -71,27 +71,27 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 ### <span style="color:#000000">Blog Posts and Opinions</span> 
 
-["COVID-19 and Inequality in Latin America: Short-run Impacts, Lasting Scars"](https://blogs.lse.ac.uk/latamcaribbean/2023/04/20/covid-19-inequality-in-latin-america-short-run-impacts-lasting-scars/) (with Nora Lustig, Guido Neidhofer, and Mariano Tommasi). LSE Latin America and Caribbean Centre. April 20, 2023.
+"COVID-19 and Inequality in Latin America: Short-run Impacts, Lasting Scars" (with Nora Lustig, Guido Neidhofer, and Mariano Tommasi). [LSE Latin America and Caribbean Centre](https://blogs.lse.ac.uk/latamcaribbean/2023/04/20/covid-19-inequality-in-latin-america-short-run-impacts-lasting-scars/). April 20, 2023.
 
-["School Closures Are Coming, What Not to Do"](https://www.edweek.org/leadership/opinion-school-closures-are-coming-what-not-to-do/2022/11) (with Douglas N. Harris). Education Week. November 28, 2022.
+"School Closures Are Coming, What Not to Do" (with Douglas N. Harris). [Education Week](https://www.edweek.org/leadership/opinion-school-closures-are-coming-what-not-to-do/2022/11). November 28, 2022.
 
-["El COVID-19 en México: Impacto en Pobreza y Desigualdad"](https://dev.focoeconomico.org/2020/11/30/el-covid-19-en-mexico-impacto-en-pobreza-y-desigualdad/) (with Nora Lustig). Foco Economico. November 30, 2020.
+"El COVID-19 en México: Impacto en Pobreza y Desigualdad" (with Nora Lustig). [Foco Economico](https://dev.focoeconomico.org/2020/11/30/el-covid-19-en-mexico-impacto-en-pobreza-y-desigualdad/). November 30, 2020.
 
-["COVID-19’s New Poor in Latin America"](https://www.cgdev.org/blog/covid-19s-new-poor-latin-america) (with Nora Lustig , Federico Sanz and Stephen D. Younger). Center for Global Development. October 21, 2020.
+"COVID-19’s New Poor in Latin America" (with Nora Lustig , Federico Sanz and Stephen D. Younger). [Center for Global Development](https://www.cgdev.org/blog/covid-19s-new-poor-latin-america). October 21, 2020.
 
-["5 Key Achievements in Education for Latin America and the Caribbean"](https://blogs.iadb.org/educacion/en/cima-5-key-achievements-in-education-for-latin-america-and-the-caribbean/) (with Elena Arias Ortiz). Enfoque Educación. March 16, 2017.
+"5 Key Achievements in Education for Latin America and the Caribbean" (with Elena Arias Ortiz). [Enfoque Educación](https://blogs.iadb.org/educacion/en/cima-5-key-achievements-in-education-for-latin-america-and-the-caribbean/). March 16, 2017.
 
 ---
 
 ### <span style="color:#000000">Media Coverage</span> 
 
-["Do “for-profit” charter schools deserve their bad reputation?."](https://fordhaminstitute.org/national/resources/education-gadfly-show-839-do-profit-charter-schools-deserve-their-bad-reputation) The Education Gadfly Show. September 28, 2022.
+"Do “for-profit” charter schools deserve their bad reputation?." [The Education Gadfly Show](https://fordhaminstitute.org/national/resources/education-gadfly-show-839-do-profit-charter-schools-deserve-their-bad-reputation). September 28, 2022.
 
-["The Great Charter School Scam."](https://progressive.org/magazine/the-great-charter-school-scam-burris/) The Progressive Magazine. August 28, 2022.
+"The Great Charter School Scam." [The Progressive Magazine](https://progressive.org/magazine/the-great-charter-school-scam-burris/). August 28, 2022.
 
-["Race Is a Strong Predictor of Which Schools Will Close Permanently."](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05) Education Week. May 26, 2022.
+"Race Is a Strong Predictor of Which Schools Will Close Permanently." [Education Week](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05). May 26, 2022.
 
-["Latin America’s new poor."](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor) The Economist. October 8, 2020.
+"Latin America’s new poor." [The Economist](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor). October 8, 2020.
 
 
 
