@@ -8,10 +8,10 @@ author_profile: true
 ### <span style="color:#000000">Articles Published in Academic Journals</span> 
 
 *"Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools"* (with Douglas N. Harris). 
-Forthcoming in Education Finance and Policy. [(Link)](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
+Forthcoming in [Education Finance and Policy](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
 *"Short and Long-Run Distributional Impacts of COVID-19 in Latin America"* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). 
-Forthcoming in Economia. [(Link)](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
+Forthcoming in [Economia Journal](https://economia.lacea.org/Forthcoming%20papers/lustig_neidhofer_tommasi_covid_latam.pdf).
 
 *"Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?"* (with Nora Lustig and Jon Jellema). 
 [Journal of African Economies](https://academic.oup.com/jae/article/32/Supplement_2/ii202/7118990), 32(Supplement 2), ii202–ii227, 2023.
