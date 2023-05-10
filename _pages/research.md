@@ -30,7 +30,7 @@ Forthcoming in [Economia Journal](https://economia.lacea.org/Forthcoming%20paper
 ### <span style="color:#000000">Book Chapters</span>  
 
 *"Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina"* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi). 
-In Commitment to Equity Handbook: Estimating the Impact of Fiscal Policy on Inequality and Poverty, N. Lustig (ed.), Second Edition, Brookings Institution Press, Washington, DC, 2022. [Link](https://commitmentoequity.org/wp-content/uploads/2023/04/CEQ-Handbook-Volume-1-.pdf).
+In Commitment to Equity Handbook: Estimating the Impact of Fiscal Policy on Inequality and Poverty, N. Lustig (ed.), Second Edition, Brookings Institution Press, Washington, DC, 2022. [(Link)](https://commitmentoequity.org/wp-content/uploads/2023/04/CEQ-Handbook-Volume-1-.pdf).
 
 *"Leaving No One Behind: Can Tax-funded Transfer Programs Provide Income Floors in Sub-Saharan Africa?"* (with Nora Lustig and Jon Jellema).
 In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Institution Press; Washington, DC, 2019. [(Link)](https://www.brookings.edu/wp-content/uploads/2019/09/LNOB_Chapter9.pdf).
