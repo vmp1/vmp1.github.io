@@ -53,7 +53,7 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 *"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino).
 
-*"Do We Know How Much Inequality and Fiscal Redistribution There Is?"* (with Mauricio De Rosa and Nora Lustig).
+*"Fiscal Redistribution when Accounting for the Rich in Latin America"* (with Mauricio De Rosa and Nora Lustig).
 
 *"Measuring the Indirect Effects of School Closures on Their Neighbouring Communities"*.
 
