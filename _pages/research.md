@@ -49,11 +49,11 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 ### <span style="color:#000000">Work in Progress</span>  
 
-*"Was Implementation Left Behind? A National Analysis of State and Federal School Accountability"*.
-
 *"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino).
 
 *"Fiscal Redistribution when Accounting for the Rich in Latin America"* (with Mauricio De Rosa and Nora Lustig).
+
+*"Was Implementation Left Behind? A National Analysis of State and Federal School Accountability"*.
 
 *"Measuring the Indirect Effects of School Closures on Their Neighbouring Communities"*.
 
