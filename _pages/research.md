@@ -39,6 +39,8 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 ### <span style="color:#000000">Working Papers</span> 
 
+*"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino). Forthcoming in the Latin America and Caribbean Inequality Review (LACIR) Working Paper Series.
+
 *"The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes" (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). 
 [CEQ Working Paper](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf) 107, CEQ Institute, Tulane University, 2021.
 
@@ -48,8 +50,6 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 ---
 
 ### <span style="color:#000000">Work in Progress</span>  
-
-*"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino).
 
 *"Fiscal Redistribution when Accounting for the Rich in Latin America"* (with Mauricio De Rosa and Nora Lustig).
 
@@ -70,6 +70,8 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 ---
 
 ### <span style="color:#000000">Blog Posts and Opinions</span> 
+
+"La pandemia del COVID-19 y la desigualdad de oportunidades en México" (with Luis Monroy-Gómez-Franco). [México ¿cómo vamos? - Reimaginemos el panorama: Ingresos, gastos y desigualdades](https://mexicocomovamos.mx/wp-content/uploads/2023/10/MCV_2023_ReimaginemosElPanorama.pdf). October 25, 2023.
 
 "COVID-19 and Inequality in Latin America: Short-run Impacts, Lasting Scars" (with Nora Lustig, Guido Neidhofer, and Mariano Tommasi). [LSE Latin America and Caribbean Centre](https://blogs.lse.ac.uk/latamcaribbean/2023/04/20/covid-19-inequality-in-latin-america-short-run-impacts-lasting-scars/). April 20, 2023.
 
