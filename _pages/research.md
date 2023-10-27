@@ -11,7 +11,7 @@ author_profile: true
 Forthcoming in [Education Finance and Policy](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
 
 *"Short and Long-Run Distributional Impacts of COVID-19 in Latin America"* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). 
-[Economia LACEA Journal](https://economia.lse.ac.uk/articles/10.31389/eco.3), 22(1), p.96–116. 
+[Economia LACEA Journal](https://economia.lse.ac.uk/articles/10.31389/eco.3), 22(1), p.96–116, 2023. 
 
 *"Are Budget Neutral Income Floors Fiscally Viable in Sub-Saharan Africa?"* (with Nora Lustig and Jon Jellema). 
 [Journal of African Economies](https://academic.oup.com/jae/article/32/Supplement_2/ii202/7118990), 32(Supplement 2), ii202–ii227, 2023.
