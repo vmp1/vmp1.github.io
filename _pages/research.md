@@ -39,7 +39,7 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 ### <span style="color:#000000">Working Papers</span> 
 
-*"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino). Forthcoming in the Latin America and Caribbean Inequality Review (LACIR) Working Paper Series.
+*"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino).[International Inequalities Institute Working Paper](https://eprints.lse.ac.uk/120683/1/LACIR_WP_115.pdf) 115, LACIR Series, 2023.
 
 *"The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes" (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). 
 [CEQ Working Paper](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf) 107, CEQ Institute, Tulane University, 2021.
