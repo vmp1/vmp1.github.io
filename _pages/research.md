@@ -8,7 +8,7 @@ author_profile: true
 ### <span style="color:#000000">Articles Published in Academic Journals</span> 
 
 *"Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools"* (with Douglas N. Harris). 
-Forthcoming in [Education Finance and Policy](https://direct.mit.edu/edfp/article-abstract/doi/10.1162/edfp_a_00386/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext).
+[Education Finance and Policy](https://direct.mit.edu/edfp/article-abstract/19/1/32/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext), 19(1), p.32–60, 2024.
 
 *"Short and Long-Run Distributional Impacts of COVID-19 in Latin America"* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). 
 [Economia LACEA Journal](https://economia.lse.ac.uk/articles/10.31389/eco.3), 22(1), p.96–116, 2023. 
