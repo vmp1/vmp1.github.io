@@ -79,13 +79,13 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 "America Has Too Many Schools" [The Wall Street Journal](https://www.wsj.com/us-news/education/schools-closures-enrollment-los-angeles-3309c79c?reflink=desktopwebshare_permalink). May 9, 2024.
 
-"Do “for-profit” charter schools deserve their bad reputation?." [The Education Gadfly Show](https://fordhaminstitute.org/national/resources/education-gadfly-show-839-do-profit-charter-schools-deserve-their-bad-reputation). September 28, 2022.
+"Do “For-Profit” Charter Schools Deserve Their Bad Reputation?." [The Education Gadfly Show](https://fordhaminstitute.org/national/resources/education-gadfly-show-839-do-profit-charter-schools-deserve-their-bad-reputation). September 28, 2022.
 
 "The Great Charter School Scam." [The Progressive Magazine](https://progressive.org/magazine/the-great-charter-school-scam-burris/). August 28, 2022.
 
 "Race Is a Strong Predictor of Which Schools Will Close Permanently." [Education Week](https://www.edweek.org/leadership/race-is-a-strong-predictor-of-which-schools-will-close-permanently-study-shows/2022/05). May 26, 2022.
 
-"Latin America’s new poor." [The Economist](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor). October 8, 2020.
+"Latin America’s New Poor." [The Economist](https://www.economist.com/the-americas/2020/10/08/latin-americas-new-poor). October 8, 2020.
 
 
 
