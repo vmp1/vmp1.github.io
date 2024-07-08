@@ -49,16 +49,6 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 ---
 
-### <span style="color:#000000">Work in Progress</span>  
-
-*"Fiscal Redistribution when Accounting for the Rich in Latin America"* (with Mauricio De Rosa and Nora Lustig).
-
-*"Was Implementation Left Behind? A National Analysis of State and Federal School Accountability"*.
-
-*"Measuring the Indirect Effects of School Closures on Their Neighbouring Communities"*.
-
----
-
 ### <span style="color:#000000">Policy Briefs</span> 
 
 *"Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools"* (with Douglas N. Harris).
@@ -86,6 +76,8 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 ---
 
 ### <span style="color:#000000">Media Coverage</span> 
+
+"America Has Too Many Schools" [The Wall Street Journal](https://www.wsj.com/us-news/education/schools-closures-enrollment-los-angeles-3309c79c?reflink=desktopwebshare_permalink). May 9, 2024.
 
 "Do “for-profit” charter schools deserve their bad reputation?." [The Education Gadfly Show](https://fordhaminstitute.org/national/resources/education-gadfly-show-839-do-profit-charter-schools-deserve-their-bad-reputation). September 28, 2022.
 
