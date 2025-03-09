@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### <span style="color:#000000">Articles Published in Academic Journals</span> 
+*"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino). [Oxford Open Economics](https://doi.org/10.1093/ooec/odae034), 4(Supplement 1), i426-i446, 2025.
 
 *"Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools"* (with Douglas N. Harris). 
 [Education Finance and Policy](https://direct.mit.edu/edfp/article-abstract/19/1/32/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext), 19(1), p.32–60, 2024.
@@ -38,9 +39,6 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 ---
 
 ### <span style="color:#000000">Working Papers</span> 
-
-*"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino). [International Inequalities Institute Working Paper](https://eprints.lse.ac.uk/120683/1/LACIR_WP_115.pdf) 115, LACIR Series, 2023.
-
 *"The Role of Fiscal Policy in Reducing Inequality and Poverty in Colombia: an Analysis of the Incidence of Social Spending and Taxes" (In Spanish)* (with Marcela Meléndez and Nicolás Peña-Tenjo). 
 [CEQ Working Paper](http://repec.tulane.edu/RePEc/ceq/ceq107.pdf) 107, CEQ Institute, Tulane University, 2021.
 
