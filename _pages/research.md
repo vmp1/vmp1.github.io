@@ -29,7 +29,6 @@ author_profile: true
 ---
 
 ### <span style="color:#000000">Book Chapters</span>  
-
 *"Fiscal Policy, Income Redistribution and Poverty Reduction in Argentina"* (with Juan Cruz Lopez Del Valle, Caterina Brest Lopez, Joaquin Campabadal, Julieta Ladronis, Nora Lustig and Mariano Tommasi). 
 In Commitment to Equity Handbook: Estimating the Impact of Fiscal Policy on Inequality and Poverty, N. Lustig (ed.), Second Edition, Brookings Institution Press, Washington, DC, 2022. [(Link)](https://commitmentoequity.org/wp-content/uploads/2023/04/CEQ-Handbook-Volume-1-.pdf).
 
@@ -44,6 +43,12 @@ In "Leave No One Behind," Homi Kharas and John McArthur (editors), Brookings Ins
 
 *"The Impact of COVID-19 and Expanded Social Assistance on Inequality and Poverty in Argentina, Brazil, Colombia and Mexico"* (with Nora Lustig, Federico Sanz, and Stephen Younger). 
 [CEQ Working Paper](http://repec.tulane.edu/RePEc/ceq/ceq92.pdf) 92, CEQ Institute, Tulane University, 2021.
+
+---
+
+### <span style="color:#000000">Reports</span> 
+*"Zambia Poverty and Equity Assessment: Turning Things Around After a Lost Decade"* (with several co-authors). 
+[World Bank Publications](https://documents1.worldbank.org/curated/en/099021325143024502/pdf/P5005171da62e600f1863814dbc6455d0b6.pdf), 2025.
 
 ---
 
