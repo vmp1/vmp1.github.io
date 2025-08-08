@@ -9,7 +9,7 @@ author_profile: true
 *"Fiscal Policy, Income Redistribution, and Poverty Reduction in Latin America"* (with Nora Lustig and Carola Pessino). [Oxford Open Economics](https://doi.org/10.1093/ooec/odae034), 4(Supplement 1), i426-i446, 2025.
 
 *"Extreme Measures: A National Descriptive Analysis of Closure and Restructuring of Traditional Public, Charter, and Private Schools"* (with Douglas N. Harris). 
-[Education Finance and Policy](https://direct.mit.edu/edfp/article-abstract/19/1/32/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext), 19(1), p.32–60, 2024. [(Link - EFP takeaways)](https://aefpweb.org/files/Takeaways_Harris_W24_CH.pdf)
+[Education Finance and Policy](https://direct.mit.edu/edfp/article-abstract/19/1/32/112923/Extreme-Measures-A-National-Descriptive-Analysis?redirectedFrom=fulltext), 19(1), p.32–60, 2024. [(EFP takeaways - Link)](https://aefpweb.org/files/Takeaways_Harris_W24_CH.pdf)
 
 *"Short and Long-Run Distributional Impacts of COVID-19 in Latin America"* (with Nora Lustig, Guido Neidhöfer, and Mariano Tommasi). 
 [Economia LACEA Journal](https://economia.lse.ac.uk/articles/10.31389/eco.3), 22(1), p.96–116, 2023. 
